@@ -37,3 +37,7 @@
 <img src="images/noFreeRooms.png">
 <img src="images/QueueOutput.png">
 <img src="images/AgendaAndQueue.png">
+
+<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact)
+
