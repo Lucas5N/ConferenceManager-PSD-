@@ -6,4 +6,4 @@
 ---
 
 <p>Upon start the program will display the following menu...</p>
-<img src = "menu.png">
+<img src = "images/menu.png">
