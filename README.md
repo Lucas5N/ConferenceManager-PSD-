@@ -14,3 +14,4 @@
 <p>After the user has succesfully created the event the Menu will be displayed again. Upon close the program will either create if not found or update the <i>agenda.txt</i> file </p>
 <img src = "images/fullAgenda.png">
 <img src = "images/fullAgendaOutput.png">
+<p>If the user wants to create a new event and there are no rooms left vacant, the event will be added to the queue and it will be added to a room as soon as it is freed, <i>note: The maximum amount of rooms can be changed by modifying the MAXSTANZE constant in the <u>utils.h</u> file</i></p>
