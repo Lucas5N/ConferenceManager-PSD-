@@ -1,6 +1,6 @@
 <p align = "center"> <img src = "images/unisa.png" height = 70 wifth = 70></p>
 <h1 align = "center">ConferenceManager-PSD-</h1>
-<p align = "center"><h3>A simple application that let's the user manage conferences, events and such. This project is relevant to the Programming and data structures course.</h3></p>
+<p align = "center"><h3>A simple application that lets the user manage conferences, events and such. This project is relevant to the Programming and data structures course.</h3></p>
 <p>The application makes use of files, data structures and the related algorithms to best manage the aforementioned events. </p>
 
 ---
@@ -12,4 +12,5 @@
 <p>If the user makes any mistake in the event creation process, the program will proceed to notify the nature of the mistake and let the user try again</p>
 <img src = "images/errorEvidence.png">
 <p>After the user has succesfully created the event the Menu will be displayed again. Upon close the program will either create if not found or update the <i>agenda.txt</i> file </p>
-<img src = "images/full"
+<img src = "images/fullAgenda.png">
+<img src = "images/fullAgendaOutput.png">
