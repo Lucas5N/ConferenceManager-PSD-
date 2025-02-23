@@ -39,5 +39,7 @@
 <img src="images/AgendaAndQueue.png">
 
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5N&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5N&layout=compact">
+</p>
 
