@@ -5,19 +5,19 @@
 <h1 align="center">ConferenceManager-PSD-</h1>
 
 <p align="center">
-  <h3>A simple application that lets the user manage conferences. This project is relevant to the Programming and Data Structures course.</h3>
+  <strong>A simple application that lets the user manage conferences. This project is relevant to the Programming and Data Structures course.</strong>
 </p>
 
 <p>The application makes use of files, data structures, and the related algorithms to best manage the aforementioned events.</p>
 
 <hr>
 
-<p>The prgram is to be started by opening the <i>main.exe</i> file, once started, the program will display the following menu...</p>
+<p>The program is to be started by opening the <i>main.exe</i> file, once started, the program will display the following menu...</p>
 <img src="images/menu.png">
 
 <hr>
 
-<p>The user can create, modify, remove events, it can also visualize the current Agenda and Queue, the events are divided into three types, each of which must have a valid date and time. The user then has to choose which room the event will take place in.</p>
+<p>The user can create, modify, remove events, it can also visualize the current Agenda and Queue, the events are divided into three types, each of which must have a valid date and time. The user then...</p>
 <img src="images/eventCreation.png">
 
 <hr>
@@ -33,7 +33,7 @@
 
 <hr>
 
-<p>If the user wants to create a new event and there are no rooms left vacant, the event will be added to the queue and will be assigned to a room as soon as one is freed. <i>Note: The maximum number of rooms can be changed by modifying the MAXSTANZE constant in the <b>utils.h</b> file.</i></p>
+<p>If the user wants to create a new event and there are no rooms left vacant, the event will be added to the queue and will be assigned to a room as soon as one is freed. <i>Note: The maximum number...</i></p>
 <img src="images/noFreeRooms.png">
 <img src="images/QueueOutput.png">
 <img src="images/AgendaAndQueue.png">
