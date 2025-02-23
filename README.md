@@ -1,5 +1,5 @@
 
-<p align = "center"><h1>ConferenceManager-PSD-</h1></p>
+<h1 align = "center">ConferenceManager-PSD-</h1>
 <p align = "center"><h3>A simple application that let's the user manage conferences, events and such. This project is relevant to the Programming and data structures course.</h3></p>
 <p>The application makes use of files, data structures and the related algorithms to best manage the aforementioned events. </p>
 
