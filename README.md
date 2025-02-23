@@ -12,7 +12,7 @@
 
 <hr>
 
-<p>Upon start, the program will display the following menu...</p>
+<p>The prgram is to be started by opening the <i>main.exe</i> file, once started, the program will display the following menu...</p>
 <img src="images/menu.png">
 
 <hr>
