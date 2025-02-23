@@ -17,7 +17,7 @@
 
 <hr>
 
-<p>The user can choose between three types of events, each of which must have a valid date and time. The user then has to choose which room the event will take place in.</p>
+<p>The user can create, modify, remove events, it can also visualize the current Agenda and Queue, the events are divided into three types, each of which must have a valid date and time. The user then has to choose which room the event will take place in.</p>
 <img src="images/eventCreation.png">
 
 <hr>
